@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\bin\Debug\Lab1_HW2.exe.config
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\bin\Debug\Lab1_HW2.exe
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\bin\Debug\Lab1_HW2.pdb
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\obj\Debug\Lab1_HW2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\obj\Debug\Lab1_HW2.Form1.resources
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\obj\Debug\Lab1_HW2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\obj\Debug\Lab1_HW2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\obj\Debug\Lab1_HW2.exe
+C:\Users\Admin\source\repos\Lab1_HW2\Lab1_HW2\obj\Debug\Lab1_HW2.pdb
