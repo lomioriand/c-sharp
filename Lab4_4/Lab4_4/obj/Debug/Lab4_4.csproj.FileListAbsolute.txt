@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\bin\Debug\Lab4_4.exe.config
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\bin\Debug\Lab4_4.exe
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\bin\Debug\Lab4_4.pdb
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\obj\Debug\Lab4_4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\obj\Debug\Lab4_4.Form1.resources
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\obj\Debug\Lab4_4.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\obj\Debug\Lab4_4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\obj\Debug\Lab4_4.exe
+C:\Users\Admin\source\repos\Lab4_4\Lab4_4\obj\Debug\Lab4_4.pdb
