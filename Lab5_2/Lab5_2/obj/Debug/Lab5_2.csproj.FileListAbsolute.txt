@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.Form1.resources
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Users\Admin\source\repos\Lab5_2\Lab5_2\obj\Debug\Lab5_2.pdb

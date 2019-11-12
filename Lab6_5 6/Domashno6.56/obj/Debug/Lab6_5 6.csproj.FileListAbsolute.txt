@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\bin\Debug\Domashno6.56.exe.config
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\bin\Debug\Domashno6.56.exe
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\bin\Debug\Domashno6.56.pdb
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Lab6_5 6.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Lab6_5 6.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Domashno6._56.Form1.resources
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Domashno6._56.Properties.Resources.resources
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Lab6_5 6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Domashno6.56.exe
+C:\Users\Admin\source\repos\Lab6_5 6\Domashno6.56\obj\Debug\Domashno6.56.pdb

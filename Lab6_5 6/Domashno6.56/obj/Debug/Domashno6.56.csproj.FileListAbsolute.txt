@@ -1,0 +1,11 @@
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6.56.csprojAssemblyReference.cache
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6._56.Form1.resources
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6._56.Properties.Resources.resources
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6.56.csproj.GenerateResource.cache
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6.56.csproj.CoreCompileInputs.cache
+E:\materiali\TSP\Domashno6.56\Domashno6.56\bin\Debug\Domashno6.56.exe.config
+E:\materiali\TSP\Domashno6.56\Domashno6.56\bin\Debug\Domashno6.56.exe
+E:\materiali\TSP\Domashno6.56\Domashno6.56\bin\Debug\Domashno6.56.pdb
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6.56.csproj.ResolveComReference.cache
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6.56.exe
+E:\materiali\TSP\Domashno6.56\Domashno6.56\obj\Debug\Domashno6.56.pdb
