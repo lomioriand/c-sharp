@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\bin\Debug\Kursov_proekt.exe.config
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\bin\Debug\Kursov_proekt.exe
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\bin\Debug\Kursov_proekt.pdb
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.Properties.Resources.resources
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.exe
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.pdb
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.Form1.resources
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.Form2.resources
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.Form3.resources
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.Form4.resources
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Kursov_proekt\Kursov_proekt\obj\Debug\Kursov_proekt.csproj.ResolveComReference.cache
